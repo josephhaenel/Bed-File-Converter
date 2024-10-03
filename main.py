@@ -4,6 +4,7 @@
     10/3/2024
     CS 490 Computing in Healthcare
     Project 1 - Creating Negative Bed File
+    (Used SeqIO so I don't have to use a Linux VM)
 '''
 
 import os
