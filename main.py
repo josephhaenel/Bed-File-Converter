@@ -1,5 +1,13 @@
+
+'''
+    Joseph Haenel
+    10/3/2024
+    CS 490 Computing in Healthcare
+    Project 1 - Creating Negative Bed File
+'''
+
 import os
-import sys
+# import sys
 from Bio import SeqIO
 from collections import Counter
 
